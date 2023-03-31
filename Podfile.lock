@@ -1,0 +1,32 @@
+PODS:
+  - ImageViewer.swift (3.3.7)
+  - MBProgressHUD (1.2.0)
+  - Nuke (9.5.0)
+  - SnapKit (5.6.0)
+  - YandexMapsMobile (4.2.2-full)
+
+DEPENDENCIES:
+  - ImageViewer.swift
+  - MBProgressHUD
+  - Nuke
+  - SnapKit
+  - YandexMapsMobile (= 4.2.2-full)
+
+SPEC REPOS:
+  trunk:
+    - ImageViewer.swift
+    - MBProgressHUD
+    - Nuke
+    - SnapKit
+    - YandexMapsMobile
+
+SPEC CHECKSUMS:
+  ImageViewer.swift: 2acc01513bc39f9d7c1ee51042055755971ad9da
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nuke: 6f400a4ea957e09149ec335a3c6acdcc814d89e4
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  YandexMapsMobile: 1fd5f86bc368ad6ba528b199f9477e4a26796567
+
+PODFILE CHECKSUM: e76b308743214b11cb2318c503aa75a7e490b956
+
+COCOAPODS: 1.11.3
